@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jls358
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning NodeJs/Express & Python/Flask
+- 👋 Hi, I’m JL Shrestha
+- 👀 I’m interested in Web Application
+- 🌱 I’m currently learning NodeJs/Express & Python/Flask & Vue
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
