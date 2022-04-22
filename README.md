@@ -1,6 +1,6 @@
 - 👋 Hi, I’m JL Shrestha
 - 👀 I’m interested in Web Application
-- 🌱 I’m currently learning NodeJs/Express & Python/Flask & Vue
+- 🌱 I’m currently learning JavaScript, Vue, NodeJs/Express & Python/Flask
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
